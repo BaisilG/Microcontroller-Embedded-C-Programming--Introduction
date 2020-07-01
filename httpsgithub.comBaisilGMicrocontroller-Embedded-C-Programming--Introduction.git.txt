@@ -1,3 +1,12 @@
 httpsgithub.comBaisilGMicrocontroller-Embedded-C-Programming--Introduction.git
 
 link is above .
+
+
+Programming language in Embedded Systems 
+- c and c++ ( most widely used)
+- Rust
+- Assembly
+- Java
+- Python
+
